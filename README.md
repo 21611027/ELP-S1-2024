@@ -8,7 +8,7 @@ Welcome to the ISYS2001 Introduction to Business Programming exam for Semester 1
 
 1. **Open the Exam Notebook:**
    - Click the "Open in Colab" button below to access the exam notebook.
-   - - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/teaching-repositories/ELP-S1-2024/blob/main/isys2001_extended_learning_portfolio_s1_2024.ipynb)
+   - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/teaching-repositories/ELP-S1-2024/blob/main/isys2001_extended_learning_portfolio_s1_2024.ipynb)
 
 2. **Exam Instructions:**
    - Follow the detailed instructions provided in the notebook.
