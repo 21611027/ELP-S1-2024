@@ -17,7 +17,7 @@ Welcome to the ISYS2001 Introduction to Business Programming exam for Semester 1
 
 3. **Complete the Exam:**
    - Answer all four questions in the provided sections.
-   - Write your code and responses directly in the notebook cells.
+   - Write your code and responses directly in the notebook cells or in idividual notebooks.
    - For Question 4, you may use a Microsoft Word document or PDF.
 
 4. **Python Code Execution:**
