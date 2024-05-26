@@ -13,6 +13,7 @@ Welcome to the ISYS2001 Introduction to Business Programming exam for Semester 1
 2. **Exam Instructions:**
    - Follow the detailed instructions provided in the notebook.
    - Ensure you understand the format, collaboration policy, duration, and use of AI tools.
+   - Acknowledge or explain where any AI-generated solution differs from the course material. This includes using advanced techniques or concepts not covered in the course, such as unit testing with pytest or object-oriented programming (OOP) if not taught.
 
 3. **Complete the Exam:**
    - Answer all four questions in the provided sections.
